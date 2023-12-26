@@ -1,5 +1,5 @@
 # CS-4910 Final Project
-# Carly Beal & Katie Schneider
+### Carly Beal & Katie Schneider
 
 This project includes 6 encryption schemes that the user can use. The user can pick whether to encrypt or decrypt a message using these schemes.
 
