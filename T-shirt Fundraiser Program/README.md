@@ -1,4 +1,4 @@
-T-shirt Fundraiser Program
+# T-shirt Fundraiser Program
 
 This program prompts the admin to enter their pin. The prompt is repeated until the correct pin is entered or there are 3 incorrect attempts where the program will quit.
 
